@@ -3,12 +3,14 @@ import { cn } from "../lib/util";
 
 const skills = [
   // Frontend
-  { name: "HTML/CSS", level: 95, category: "frontend" },
   { name: "JavaScript", level: 90, category: "frontend" },
   { name: "React", level: 90, category: "frontend" },
   { name: "TypeScript", level: 75, category: "frontend" },
   { name: "Tailwind CSS", level: 75, category: "frontend" },
   { name: "Next.js", level: 70, category: "frontend" },
+  { name: "HTML/CSS", level: 95, category: "frontend" },
+  { name: "GSAP", level: 55, category: "frontend" },
+  { name: "MaterialUI/Daisyui/Shadcn", level: 55, category: "frontend" },
 
   // Backend
   { name: "Node.js", level: 80, category: "backend" },

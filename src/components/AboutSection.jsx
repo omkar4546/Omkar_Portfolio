@@ -25,7 +25,7 @@ export const AboutSection = () => {
               contributed to the development of mpIe.ai, an AI-powered sales
               training platform. Where I have to create responsive and dynamic
               frontend components using React.js, enhancing the user interface.
-              Additionally, he worked on backend features with Nest.js and
+              Additionally, I have worked on backend features with Nest.js and
               MongoDB to enable efficient data handling and personalized
               performance tracking for users.
             </p>

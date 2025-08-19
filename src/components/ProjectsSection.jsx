@@ -25,7 +25,7 @@ const projects = [
     id: 3,
     title: "Job Portal",
     description:
-      "A full-stack ride-hailing application inspired by Uber, developed to simulate real-world cab booking experiences",
+      "A dynamic job portal where recruiters can post job openings and job seekers can easily apply. Includes advanced filters based on keywords, skills, location, job title, and more for a streamlined search experience.",
     image: "/projects/project3.png",
     tags: ["Next", "Typescript", "MaterialUI", "Express", "MongoDB"],
     demoUrl: "",
